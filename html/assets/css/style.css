@@ -190,9 +190,9 @@ nav.navbar.bootsnav .navbar-toggle i{color: #d92cf9;}
     align-items: center;
     justify-content: center;
     position:relative;
-    background:url(../images/about/welcome-banner.jpg)no-repeat;
+    background:url(https://lh3.googleusercontent.com/proxy/prcSbOSb0CbVRsSCgO5tZSEYsz_cuU-qXirr9STg15l5igxrrtwXwe3haS271KpLjt2XgX7wFPcrI2-DuBhrpQhddiwik8pfNKA8geeB_DbcK-qYVfcAHnrRt2_R)no-repeat;
     background-size:cover;
-    background-position: center;
+    background-position: top;
     height:890px;
 }
 .welcome-hero:before{
